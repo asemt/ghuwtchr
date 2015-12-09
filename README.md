@@ -1,7 +1,7 @@
 ghuwtchr (_GitHub Un-Watcher_) unwatches GitHub repos for you.
 ===============
 
-It makes sense in case a big list of repositories should be unwatched at once while avoiding using the GitHub web interface.  
+It makes sense in case a long list of repositories should be unwatched at once while avoiding using the GitHub web interface.  
 
 ### Installation:
 
